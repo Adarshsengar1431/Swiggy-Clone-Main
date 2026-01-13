@@ -1,12 +1,19 @@
 # 🍔 Swiggy Clone
 
-A Swiggy-inspired food delivery web application built using modern frontend technologies.  
-This project focuses on UI, component-based architecture, smooth user experience, and real-time data handling from a backend service.
+A Swiggy-inspired food delivery web application built using modern frontend and backend technologies.  
+This project focuses on clean UI, component-based architecture, smooth user experience, and real-time data handling via REST APIs.
 
 ---
-🌐 Live Application
-🚀 Live Demo:
+
+## 🌐 Live Application
+
+🚀 **Frontend (Vercel):**  
 👉 https://swiggy-clone-main-alpha.vercel.app
+
+🛠 **Backend APIs (Render):**  
+👉 Deployed using **Render Cloud Platform**
+
+---
 
 ## 📽️ Project Demo
 
@@ -17,15 +24,16 @@ This project focuses on UI, component-based architecture, smooth user experience
 ---
 
 ## 🚀 Features
-- Home page with dynamic restaurant listings  
-- Real-time data fetched from **Node.js backend APIs**  
-- REST API integration for restaurants, menus, and offers  
+
+- Dynamic home page with restaurant listings  
+- Real-time data fetched from backend REST APIs  
 - Search functionality with backend-powered filtering  
+- Restaurant menu and offer handling  
 - Scalable backend architecture using Express.js  
 - Asynchronous API handling with proper error management  
 - Responsive UI for mobile, tablet, and desktop  
 - Modern React component-based architecture  
-- Clean and reusable UI components  
+- Clean, reusable UI components  
 - Environment-based configuration using `.env` files  
 
 ---
@@ -36,21 +44,25 @@ This project focuses on UI, component-based architecture, smooth user experience
 - React.js  
 - JavaScript (ES6+)  
 - CSS / Tailwind CSS  
+- Axios / Fetch API  
 
 ### Backend
 - Node.js  
 - Express.js  
 - REST APIs  
+- Deployed on **Render**
 
-### Tools
+### Tools & Platforms
 - Git & GitHub  
 - Postman (API testing)  
+- Vercel (Frontend deployment)  
+- Render (Backend deployment)
 
 ---
 
-## 📦 Installation
+## 📦 Installation & Setup
 
-### Clone the repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Adarshsengar1431/Swiggy-Clone.git
 cd Swiggy-Clone

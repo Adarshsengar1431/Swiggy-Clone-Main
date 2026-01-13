@@ -4,6 +4,9 @@ A Swiggy-inspired food delivery web application built using modern frontend tech
 This project focuses on UI, component-based architecture, smooth user experience, and real-time data handling from a backend service.
 
 ---
+🌐 Live Application
+🚀 Live Demo:
+👉 https://swiggy-clone-main-alpha.vercel.app
 
 ## 📽️ Project Demo
 
